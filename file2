@@ -1,0 +1,3 @@
+echo what is ur username
+read username 
+echo welcome $username in bank of america
